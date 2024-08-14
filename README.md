@@ -1,3 +1,6 @@
 # writeups
 
-This is a collection of my solutions for CTFs, and online coursers/platforms.
+My writeups for CTFs, and online courses.
+
+Some detailed solutions are also published at [Gambiarra Overdrive](https://gambiarra-overdrive.github.io)
+

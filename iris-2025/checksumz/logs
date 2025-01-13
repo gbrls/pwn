@@ -1,0 +1,12 @@
+ffffffffc02ed340 t __pfx_checksumz_read_iter    [vuln]
+rm: can't remove './exploit': No such file or directory
+1
+Connecting to 192.168.1.80:8080 (192.168.1.80:8080)
+saving to 'exploit'
+exploit              100% |********************************|  820k  0:00:00 ETA
+'exploit' saved
+ok, Renamed to aabbcc
+Read 256 bytes: ''
+0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 ffffff8c ffffffd1 ffffffc1 ffffffb3 fffffff5 1d ffffffff 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0
+
+

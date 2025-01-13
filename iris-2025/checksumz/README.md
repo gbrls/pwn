@@ -1,4 +1,9 @@
-# Checksumz
+# Linux kernel heap overflow exploit
+
+> [!NOTE]
+> Original readme below
+
+## Checksumz
 
 This is a kernel pwn challenge. You can find the vulnerable char device at "/dev/checksumz". 
 

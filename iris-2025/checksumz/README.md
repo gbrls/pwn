@@ -1,6 +1,14 @@
 # Linux kernel heap overflow exploit
 
 > [!NOTE]
+> The exploit source code is [here](https://github.com/gbrls/pwn/blob/main/iris-2025/checksumz/exploit/exploit.c)
+
+This was my first heap overflow exploit, in the userland or kernel. This was also my first kernel exploit.
+
+Huge thanks to [@thotypous](https://github.com/thotypous) for the encouragement and [@0xTen](https://github.com/0xTen) for the guidance and useful materials.
+
+
+> [!WARNING]
 > Original readme below
 
 ## Checksumz

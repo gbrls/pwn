@@ -1,5 +1,7 @@
 # Linux kernel heap overflow exploit
 
+### [My writeup with detailed explanations](https://gbrls.github.io/writeups/irisctf2025-checksumz/)
+
 > [!NOTE]
 > The exploit source code is [here](https://github.com/gbrls/pwn/blob/main/iris-2025/checksumz/exploit/exploit.c)
 
